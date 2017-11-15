@@ -1,0 +1,84 @@
+{
+	"blocket": {
+		"BOSTAD": null,
+		"JOBB": null,
+		"FORDON": [
+			"Bilar",
+			"Bildelar",
+			"biltillbehör",
+			"Båtar",
+			"Båtdelar",
+			"Båttillbehör",
+			"Husvagnar",
+			"husbilar",
+			"Mopeder",
+			"A-traktor",
+			"Motorcyklar",
+			"MC-delar",
+			"MC-tillbehör",
+			"Lastbil",
+			"truck",
+			"entreprenad",
+			"Skogsmaskiner",
+			"lantbruksmaskiner",
+			"Snöskotrar",
+			"Snöskoterdelar",
+			"Sönskotertillbehör"
+		],
+		"HEMMET": [
+			"Bygg",
+			"Trädgård",
+			"Möbler",
+			"heminredning",
+			"Husgeråd",
+			"vitvaror",
+			"Verktyg"
+		],
+		"PERSONLIGT": [
+			"Kläder",
+			"skor",
+			"Accessoarer",
+			"klockor",
+			"Barnkläder",
+			"Barnskor",
+			"Barnartiklar",
+			"leksaker"
+		],
+		"ELEKTRONIK": [
+			"Datorer",
+			"TV-spel",
+			"Ljud",
+			"bild",
+			"Telefoner",
+			"Telefontillbehör"
+		],
+		"FRITID": null,
+		"HOBBY": [
+			"Biljetter",
+			"Resor",
+			"Böcker",
+			"studentlitteratur",
+			"Cyklar",
+			"Djur",
+			"Hobbyprylar",
+			"Samlarprylar",
+			"Hästar",
+			"Ridsport",
+			"Jakt",
+			"fiske",
+			"Musikutrustning",
+			"Sport",
+			"Fritid"
+		],
+		"AFFÄRSVERKSAMHET": [
+			"Affärsöverlåtelser",
+			"Inventarier",
+			"Maskiner",
+			"Lokaler",
+			"Fastigheter",
+			"Tjänster"
+		],
+		"Efterlysningar": null,
+		"Övrigt": null
+	}
+}
