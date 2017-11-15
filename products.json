@@ -1246,5 +1246,36 @@
 	  "Dagens Deals",
 	  "Årets nätbutik",
 	  "Vänskap"
-	]
+	],
+  	"tradera": {
+	  "Accessoarer": [],
+	  "Antikt & Design": [],
+	  "Barnkläder & Barnskor": [],
+	  "Biljetter & Resor": [],
+	  "Bygg & Verktyg": [],
+	  "Böcker & Tidningar": [],
+	  "Datorer & Tillbehör": [],
+	  "DVD & Videofilmer": [],
+	  "Fordon, Båtar & Delar": [],
+	  "Foto, Kameror & Optik": [],
+	  "Frimärken": [],
+	  "Hem & Hushåll": [],
+	  "Hemelektronik": [],
+	  "Hobby": [],
+	  "Klockor": [],
+	  "Kläder": [],
+	  "Konst": [],
+	  "Leksaker & Barnartiklar": [],
+	  "Mobiltelefoni & Tele": [],
+	  "Musik": [],
+	  "Mynt & Sedlar": [],
+	  "Samlarsaker": [],
+	  "Skor": [],
+	  "Skönhetsvård": [],
+	  "Smycken & Ädelstenar": [],
+	  "Sport & Fritid": [],
+	  "TV-spel & Datorspel": [],
+	  "Vykort & Bilder": [],
+	  "Övrigt": []
+	}
 }
